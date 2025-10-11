@@ -4,7 +4,7 @@ A web-based tool that simplifies complex legal or contract language into plain,e
 This project was developed as part of my Infosys Internship.
 It is an AI-based application that simplifies and summarizes complex legal or contractual text into plain, easy-to-understand English.
 
-🔍 Key Features
+🔍 Key Features:
 
 Simplifies complex legal and technical terms
 
@@ -17,7 +17,7 @@ Uses NLP and transformer-based models (like FLAN-T5 / BART)
 Built with a clean Streamlit interface for user interaction
 
 
-🧠 Technologies Used
+🧠 Technologies Used:
 
 Python
 
@@ -28,6 +28,7 @@ Hugging Face Transformers
 NLP (Text Simplification & Summarization)
 
 
-🎯 Objective
+🎯 Objective:
 
 To help users — especially clients and professionals — easily understand lengthy, complex contract documents using AI-driven language simplification.
+To create a user-friendly applications that uses NLP and machine learning to simplify and summarize contract language,helping users easily interpret legal terms without requiring expert knowledge
