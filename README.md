@@ -65,3 +65,11 @@ Author
 Shreya A K
 
 Developed as part of the Infosys Internship Program.
+
+TEAM PROJECT - INFOSYS INTERNSHIP
+MY CONTRIBUTIONS :
+Readability module
+backend logic
+contract handler
+summarizer
+forgot_password module
